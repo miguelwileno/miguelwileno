@@ -141,3 +141,9 @@ Sou iniciante na área de programação, natural do Pará com formação em Admi
 />
 
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelwileno/miguelwileno/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miguelwileno/miguelwileno/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/miguelwileno/miguelwileno/output/github-contribution-grid-snake.svg">
+</picture>
