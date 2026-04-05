@@ -123,7 +123,7 @@ Sou iniciante na área de programação, natural do Pará com formação em Admi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 /> -->
-<img 
+<!--<img 
     align="left" 
     alt="Git" 
     title="Git"
@@ -138,6 +138,6 @@ Sou iniciante na área de programação, natural do Pará com formação em Admi
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+/>> -->
 
 </p>
